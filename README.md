@@ -1,6 +1,6 @@
 # **Mercedes Benz** 👨🏼‍🎓
 
-# [GitHub Pages]()
+# [GitHub Pages](https://nenevaleksey.github.io/Mercedes-Benz/)
 
 ### **Содержание**
   - [О проекте](#О-проекте)
